@@ -1,0 +1,104 @@
+Desperto do sono
+Abro os olhos
+Escuto a campainha do alarme
+Levanto-me e sento-me na cama
+Levanto-me da cama
+Caminho até o celular
+Pego o celular
+Desligo o alarme
+Coloco o celular sobre a cômoda
+
+Vou ao banheiro
+Urino
+Dou descarga
+Abro a torneira
+Molho as mãos na água
+Fecho a torneira
+Passo sabonete
+Esfrego as mãos
+Abro a torneira
+Molho as mãos na água
+Fecho a torneira
+
+Caminho até a cozinha
+Abro a geladeira
+
+Sento-me a mesa
+Como o pão
+Tomo o café com leite
+
+Caminho até o quarto
+Pego a toalha
+Vou ao banheiro
+Acendo a luz
+Abro o chuveiro
+Tomo banho
+Fecho o chuveiro
+
+
+Escovo os dentes
+
+
+Vou ao quarto
+Abro a gaveta do gaveteiro
+Pego as peças de roupa
+Visto as peças de roupa
+
+Vou a sala
+
+Sento-me na cadeira
+
+Visto as meias
+Visto os sapatos
+Levanto-me da cadeira
+Ponho a mochila nas costas
+
+Faço as orações para Jesus, a Virgem Maria, os anjos e as almas do purgatório
+
+Destranco a porta
+Abro a porta
+Fecho a porta
+Chamo o elevador
+Tranco a porta
+Entro no elevador
+Saio do elevador
+
+Caminho até a saída do condomínio
+
+Caminho pela calçada até a estaçao de metrô
+
+Pego a carteira
+Retiro o bilhete único
+Seguro o bilhete único
+Aproximo o bilhete único do sensor da catraca
+Passo pela catraca
+Pego a carteira
+Guardo o bilhete único
+Guardo a carteira
+Caminho até a plataforma
+Aguardo o trem
+Quando o trem  estaciona e abre as portas: entro no trem.
+Saio do trem.
+Caminho até a plataforma
+Aguardo o trem
+Quando o trem  estaciona e abre as portas: entro no trem.
+Saio do trem.
+Caminho até a plataforma
+Aguardo o trem
+Quando o trem  estaciona e abre as portas: entro no trem.
+Saio do trem.
+Saio da estação.
+Caminho pela calçada até o SENAI.
+Pego a carteira
+Retiro o crachá
+Seguro o cracá
+Aproximo o crachá do sensor da catraca
+Passo pela catraca
+Pego a carteira
+Guardo o crachá
+Guardo a carteira
+Caminho até a sala.
+Abro a porta da sala.
+Entro na sala.
+
+
